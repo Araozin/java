@@ -6,7 +6,7 @@ package logica_java;
 public class Aula1 {
 
     public static void main(String args[]) {
-        System.out.println("Ola mundo");
-
+        byte idade = 35;
+        System.out.println("Sua idade eh de:" + idade);
     }
 }
